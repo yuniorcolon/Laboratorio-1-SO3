@@ -1,4 +1,3 @@
-# Laboratorio-1-SO3
 #!/bin/bash
 script para practicas en REDHAT
 echo "nmcli device status"
